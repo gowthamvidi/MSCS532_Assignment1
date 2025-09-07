@@ -11,3 +11,6 @@ for i in range(1, len(random_array)):
             j = j - 1
 
         random_array[j + 1] = temp    
+
+# Array in Descending Order
+print("Array Sorted in Decreasing Order:", random_array)
